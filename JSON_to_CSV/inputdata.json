@@ -1,0 +1,17 @@
+[
+    {
+      "Name": "Harry Potter",
+      "Age": 22,
+      "BirthYear": "1999"
+    },
+    {
+      "Name": "Hermione Granger",
+      "Age": 22,
+      "BirthYear": "1999"
+    },
+    {
+      "Name": "Ronald Weasley",
+      "Age": 23,
+      "BirthYear": "1998"
+    }
+  ]
